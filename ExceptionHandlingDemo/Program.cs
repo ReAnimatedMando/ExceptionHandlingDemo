@@ -36,3 +36,41 @@ catch (Exception e)
 {
     Console.WriteLine(e.Message);
 }
+finally
+{
+    // optional
+    // happens no matter what
+    Console.WriteLine("Finally block");
+}
+
+Console.WriteLine("Continue on...");
+
+// make a list of strings in number format
+
+var strNumbers = new string[] { "12", "2", "twelve", "ten", "thirty", "33", "four", "9" };
+
+var realNumbers = new List<int>();
+
+foreach (var strNumber in strNumbers)
+{
+    try
+    {
+        var parseNumber = int.Parse(strNumber);
+        realNumbers.Add(parseNumber);
+    }
+    catch (FormatException e)
+    {
+        Console.WriteLine($"Could not parse {strNumber}. {e.Message}");
+    }
+    catch (Exception e)
+    {
+        Console.WriteLine(e.Message);
+    }
+}
+
+Console.WriteLine("Parsed numbers:");
+
+foreach (var number in realNumbers)
+{
+    Console.WriteLine(number);
+}
