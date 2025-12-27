@@ -1,0 +1,15 @@
+C:\Users\the_g\OneDrive\Desktop\Repos\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\net10.0\ExceptionHandlingDemo.exe
+C:\Users\the_g\OneDrive\Desktop\Repos\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\net10.0\ExceptionHandlingDemo.deps.json
+C:\Users\the_g\OneDrive\Desktop\Repos\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\net10.0\ExceptionHandlingDemo.runtimeconfig.json
+C:\Users\the_g\OneDrive\Desktop\Repos\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\net10.0\ExceptionHandlingDemo.dll
+C:\Users\the_g\OneDrive\Desktop\Repos\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\net10.0\ExceptionHandlingDemo.pdb
+C:\Users\the_g\OneDrive\Desktop\Repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net10.0\ExceptionHandlingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\the_g\OneDrive\Desktop\Repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net10.0\ExceptionHandlingDemo.AssemblyInfoInputs.cache
+C:\Users\the_g\OneDrive\Desktop\Repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net10.0\ExceptionHandlingDemo.AssemblyInfo.cs
+C:\Users\the_g\OneDrive\Desktop\Repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net10.0\ExceptionHandlingDemo.csproj.CoreCompileInputs.cache
+C:\Users\the_g\OneDrive\Desktop\Repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net10.0\ExceptionHandlingDemo.sourcelink.json
+C:\Users\the_g\OneDrive\Desktop\Repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net10.0\ExceptionHandlingDemo.dll
+C:\Users\the_g\OneDrive\Desktop\Repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net10.0\refint\ExceptionHandlingDemo.dll
+C:\Users\the_g\OneDrive\Desktop\Repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net10.0\ExceptionHandlingDemo.pdb
+C:\Users\the_g\OneDrive\Desktop\Repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net10.0\ExceptionHandlingDemo.genruntimeconfig.cache
+C:\Users\the_g\OneDrive\Desktop\Repos\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net10.0\ref\ExceptionHandlingDemo.dll
